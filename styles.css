@@ -5,6 +5,7 @@ body{
 }
 header{
 	display:flex;
+	text-align:center;
 	height:70px;
 	padding:5px;
 	background-color: #011e29;
@@ -45,6 +46,7 @@ img{
 
 }
 .pictorial-news-section{
+	text-align:center;
 	background-color:white;
 	border-radius:10px;
 	border:1px solid white;
@@ -52,5 +54,5 @@ img{
 	flex-direction:column;
 	align-items:center;
 	padding:10px;
-
+	gap:10px;
 }
